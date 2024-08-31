@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "All"
+    },
+    {
+      "id": 2,
+      "name": "MobilePhones"
+    },
+    {
+      "id": 3,
+      "name": "Accessories"
+    },
+    {
+      "id": 4,
+      "name": "Electronics"
+    },
+    {
+      "id": 5,
+      "name": "Sports & Outdoors"
+    },
+    {
+      "id": 6,
+      "name": "Clothing"
+    },
+    {
+      "id": 7,
+      "name": "Groceries"
+    },
+    {
+      "id": 8,
+      "name": "Shoes"
+    },
+    {
+      "id": 9,
+      "name": "Bags"
+    }
+  ]

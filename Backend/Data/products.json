@@ -1,0 +1,427 @@
+[
+  {
+    "id": 1,
+    "title": "Samsung Galaxy S23 Ultra 5G Smartphone with Stunning Display",
+    "image": "cart.png",
+    "rating": 4.5,
+    "price": 449900,
+    "category": "MobilePhones"
+  },
+  {
+    "id": 2,
+    "title": "Apple iPhone 14 Pro Max with 128GB Storage Capacity",
+    "image": "cart.png",
+    "rating": 4.6,
+    "price": 499900,
+    "category": "MobilePhones"
+  },
+  {
+    "id": 3,
+    "title": "Google Pixel 7 Pro with Advanced Camera System",
+    "image": "cart.png",
+    "rating": 4.7,
+    "price": 329900,
+    "category": "MobilePhones"
+  },
+  {
+    "id": 4,
+    "title": "OnePlus 11 5G Smartphone with High-Resolution Display",
+    "image": "cart.png",
+    "rating": 4.4,
+    "price": 259900,
+    "category": "MobilePhones"
+  },
+  {
+    "id": 5,
+    "title": "Xiaomi Mi 13 Pro with Triple Camera Setup",
+    "image": "cart.png",
+    "rating": 4.3,
+    "price": 279900,
+    "category": "MobilePhones"
+  },
+  {
+    "id": 6,
+    "title": "Sony Xperia 1 IV with Ultra HD Screen",
+    "image": "cart.png",
+    "rating": 4.2,
+    "price": 369900,
+    "category": "MobilePhones"
+  },
+  {
+    "id": 7,
+    "title": "Motorola Edge 30 Pro with Snapdragon Processor",
+    "image": "cart.png",
+    "rating": 4.5,
+    "price": 279900,
+    "category": "MobilePhones"
+  },
+
+  {
+    "id": 11,
+    "title": "Apple AirPods Pro with Active Noise Cancellation",
+    "image": "cart.png",
+    "rating": 4.8,
+    "price": 74900,
+    "category": "Accessories"
+  },
+  {
+    "id": 12,
+    "title": "Samsung Galaxy Watch 5 with Advanced Fitness Tracking",
+    "image": "cart.png",
+    "rating": 4.6,
+    "price": 79900,
+    "category": "Accessories"
+  },
+  {
+    "id": 13,
+    "title": "Bose QuietComfort 45 Noise-Canceling Headphones",
+    "image": "cart.png",
+    "rating": 4.9,
+    "price": 109900,
+    "category": "Accessories"
+  },
+  {
+    "id": 14,
+    "title": "Logitech MX Master 3S Wireless Mouse with Precision",
+    "image": "cart.png",
+    "rating": 4.7,
+    "price": 34900,
+    "category": "Accessories"
+  },
+  {
+    "id": 15,
+    "title": "Anker PowerCore 10000 Portable Charger with Fast Charging",
+    "image": "cart.png",
+    "rating": 4.5,
+    "price": 9900,
+    "category": "Accessories"
+  },
+
+  {
+    "id": 17,
+    "title": "Jabra Elite 75t True Wireless Earbuds with ANC",
+    "image": "cart.png",
+    "rating": 4.6,
+    "price": 54900,
+    "category": "Accessories"
+  },
+  {
+    "id": 18,
+    "title": "Sony WH-1000XM4 Wireless Noise-Canceling Headphones",
+    "image": "cart.png",
+    "rating": 4.8,
+    "price": 89900,
+    "category": "Accessories"
+  },
+  {
+    "id": 19,
+    "title": "Beats by Dre Studio3 Wireless Headphones with Noise Canceling",
+    "image": "cart.png",
+    "rating": 4.7,
+    "price": 74900,
+    "category": "Accessories"
+  },
+
+  {
+    "id": 21,
+    "title": "Ray-Ban Aviator Sunglasses with Classic Gold Frame",
+    "image": "cart.png",
+    "rating": 4.5,
+    "price": 54900,
+    "category": "Clothing"
+  },
+
+  {
+    "id": 24,
+    "title": "Adidas UltraBoost 22 Running Shoes ith Responsive Fit",
+    "image": "cart.png",
+    "rating": 4.8,
+    "price": 129900,
+    "category": "Clothing"
+  },
+  {
+    "id": 25,
+    "title": "Puma RS-X3 Puzzle Sneakers with Retro Design",
+    "image": "cart.png",
+    "rating": 4.4,
+    "price": 99900,
+    "category": "Clothing"
+  },
+  {
+    "id": 26,
+    "title": "Tommy Hilfiger Classic Fit Polo Shirt with Embroidered Logo",
+    "image": "cart.png",
+    "rating": 4.5,
+    "price": 49900,
+    "category": "Clothing"
+  },
+  {
+    "id": 27,
+    "title": "Under Armour Tech 2.0 Short Sleeve T-Shirt with Quick-Dry",
+    "image": "cart.png",
+    "rating": 4.6,
+    "price": 39900,
+    "category": "Clothing"
+  },
+  {
+    "id": 28,
+    "title": "H&M Casual Fit Blazer with Stretch Fabric for Comfort",
+    "image": "cart.png",
+    "rating": 4.7,
+    "price": 79900,
+    "category": "Clothing"
+  },
+  {
+    "id": 29,
+    "title": "Burberry Classic Check Cashmere Scarf with Fringe Details",
+    "image": "cart.png",
+    "rating": 4.9,
+    "price": 149900,
+    "category": "Clothing"
+  },
+  {
+    "id": 30,
+    "title": "Gucci GG Marmont Matelassé Leather Belt Bag",
+    "image": "cart.png",
+    "rating": 4.8,
+    "price": 349900,
+    "category": "Clothing"
+  },
+
+  {
+    "id": 31,
+    "title": "Nike Air Force 1 Low '07 Essential Sneakers with Clean Design",
+    "image": "cart.png",
+    "rating": 4.5,
+    "price": 119900,
+    "category": "Shoes"
+  },
+  {
+    "id": 32,
+    "title": "Adidas Originals Superstar Sneakers with Classic Shell Toe",
+    "image": "cart.png",
+    "rating": 4.6,
+    "price": 99900,
+    "category": "Shoes"
+  },
+  {
+    "id": 33,
+    "title": "Converse Chuck Taylor All Star High-Top Sneakers",
+    "image": "cart.png",
+    "rating": 4.4,
+    "price": 79900,
+    "category": "Shoes"
+  },
+  {
+    "id": 34,
+    "title": "New Balance 574 Core Sneakers with Retro Styling",
+    "image": "cart.png",
+    "rating": 4.5,
+    "price": 89900,
+    "category": "Shoes"
+  },
+  {
+    "id": 35,
+    "title": "Asics Gel-Kayano 28 Running Shoes ith Superior Cushioning",
+    "image": "cart.png",
+    "rating": 4.7,
+    "price": 129900,
+    "category": "Shoes"
+  },
+  {
+    "id": 36,
+    "title": "Saucony Kinvara 13 Running Shoes ith Lightweight Design",
+    "image": "cart.png",
+    "rating": 4.6,
+    "price": 109900,
+    "category": "Shoes"
+  },
+  {
+    "id": 37,
+    "title": "Vans Old Skool Classic Sneakers with Side Stripe",
+    "image": "cart.png",
+    "rating": 4.4,
+    "price": 79900,
+    "category": "Shoes"
+  },
+
+  {
+    "id": 40,
+    "title": "Dr. Martens 1460 Pascal Velvet Boots with Floral Design",
+    "image": "cart.png",
+    "rating": 4.8,
+    "price": 139900,
+    "category": "Shoes"
+  },
+
+  {
+    "id": 41,
+    "title": "The North Face Recon Backpack with Laptop Sleeve",
+    "image": "cart.png",
+    "rating": 4.5,
+    "price": 79900,
+    "category": "Bags"
+  },
+  {
+    "id": 42,
+    "title": "Michael Kors Jet Set Travel Tote Bag in Saffiano Leather",
+    "image": "cart.png",
+    "rating": 4.6,
+    "price": 149900,
+    "category": "Bags"
+  },
+  {
+    "id": 43,
+    "title": "Herschel Little America Backpack with Signature Straps",
+    "image": "cart.png",
+    "rating": 4.4,
+    "price": 69900,
+    "category": "Bags"
+  },
+
+  {
+    "id": 46,
+    "title": "Kate Spade New York Sam Leather Crossbody Bag",
+    "image": "cart.png",
+    "rating": 4.6,
+    "price": 119900,
+    "category": "Bags"
+  },
+  {
+    "id": 47,
+    "title": "Louis Vuitton Neverfull MM Tote Bag with Monogram Canvas",
+    "image": "cart.png",
+    "rating": 4.8,
+    "price": 349900,
+    "category": "Bags"
+  },
+  {
+    "id": 48,
+    "title": "Prada Re-Nylon Backpack with Adjustable Straps",
+    "image": "cart.png",
+    "rating": 4.7,
+    "price": 239900,
+    "category": "Bags"
+  },
+  {
+    "id": 49,
+    "title": "Coach Tabby Shoulder Bag with Signature Canvas",
+    "image": "cart.png",
+    "rating": 4.5,
+    "price": 139900,
+    "category": "Bags"
+  },
+  {
+    "id": 50,
+    "title": "Burberry Vintage Check Bum Bag with Adjustable Belt",
+    "image": "cart.png",
+    "rating": 4.6,
+    "price": 169900,
+    "category": "Bags"
+  },
+  {
+    "id": 51,
+    "title": "Nike Air Zoom Pegasus 39 Running Shoes",
+    "image": "cart.png",
+    "rating": 4.6,
+    "price": 109900,
+    "category": "Sports & Outdoors"
+  },
+  {
+    "id": 52,
+    "title": "Adidas Terrex Swift R3 GTX Hiking Boots with Waterproof Technology",
+    "image": "cart.png",
+    "rating": 4.7,
+    "price": "139900",
+    "category": "Sports & Outdoors"
+  },
+  {
+    "id": 53,
+    "title": "Fitbit Charge 5 Fitness Tracker with Built-In GPS",
+    "image": "cart.png",
+    "rating": 4.5,
+    "price": 39900,
+    "category": "Sports & Outdoors"
+  },
+  {
+    "id": 54,
+    "title": "Forerunner 945 Multisport GPS Watch with Heart Rate Monitor",
+    "image": "cart.png",
+    "rating": 4.8,
+    "price": 219900,
+    "category": "Sports & Outdoors"
+  },
+
+  {
+    "id": 57,
+    "title": "Extra Virgin Olive Oil with Rich Flavor and Health Benefits",
+    "image": "cart.png",
+    "rating": 4.6,
+    "price": 1590,
+    "category": "Groceries"
+  },
+  {
+    "id": 58,
+    "title": "Almond Butter Smooth with No Added Sugar and Healthy Fats",
+    "image": "cart.png",
+    "rating": 4.8,
+    "price": 1490,
+    "category": "Groceries"
+  },
+  {
+    "id": 59,
+    "title": "Premium Whole Bean Coffee with Rich Aroma and Bold Flavor",
+    "image": "cart.png",
+    "rating": 4.7,
+    "price": 1290,
+    "category": "Groceries"
+  },
+  {
+    "id": 60,
+    "title": "Assorted Organic Nuts Mix with High Nutritional Value",
+    "image": "cart.png",
+    "rating": 4.5,
+    "price": 1790,
+    "category": "Groceries"
+  },
+  {
+    "id": 61,
+    "title": "Sony Bravia 65-Inch 4K Ultra HD TV",
+    "image": "cart.png",
+    "rating": 4.7,
+    "price": 89900,
+    "category": "Electronics"
+  },
+  {
+    "id": 62,
+    "title": "Samsung Galaxy Tab S8 Ultra with S Pen",
+    "image": "cart.png",
+    "rating": 4.8,
+    "price": 64900,
+    "category": "Electronics"
+  },
+  {
+    "id": 63,
+    "title": "Apple MacBook Pro 16-inch with M1 Pro Chip",
+    "image": "cart.png",
+    "rating": 4.9,
+    "price": 239900,
+    "category": "Electronics"
+  },
+  {
+    "id": 64,
+    "title": "Bose SoundLink Revolve+ Portable Bluetooth Speaker",
+    "image": "cart.png",
+    "rating": 4.6,
+    "price": 29900,
+    "category": "Electronics"
+  },
+  {
+    "id": 65,
+    "title": "Nikon D850 DSLR Camera with 24-120mm Lens",
+    "image": "cart.png",
+    "rating": 4.7,
+    "price": 159900,
+    "category": "Electronics"
+  }
+]
