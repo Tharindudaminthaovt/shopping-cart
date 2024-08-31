@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Samsung Galaxy S23 Ultra 5G Smartphone with Stunning Display",
-    "image": "cart.png",
+    "image": "https://doctormobile.lk/wp-content/uploads/2023/02/Samsung-Galaxy-S23-Ultra-Cream-best-price-in-Sri-Lanka.jpg",
     "rating": 4.5,
     "price": 449900,
     "category": "MobilePhones"
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "title": "Apple iPhone 14 Pro Max with 128GB Storage Capacity",
-    "image": "cart.png",
+    "image": "https://xmobile.lk/wp-content/uploads/2023/09/Apple-iPhone-14-Pro-Max-2.png",
     "rating": 4.6,
     "price": 499900,
     "category": "MobilePhones"
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "title": "Google Pixel 7 Pro with Advanced Camera System",
-    "image": "cart.png",
+    "image": "https://xmobile.lk/wp-content/uploads/2023/10/Google-Pixel-7-Pro-12GB-RAM-128GB.png",
     "rating": 4.7,
     "price": 329900,
     "category": "MobilePhones"
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "title": "OnePlus 11 5G Smartphone with High-Resolution Display",
-    "image": "cart.png",
+    "image": "https://i0.wp.com/doctormobile.lk/wp-content/uploads/2023/04/OnePlus-11-5G-Eternal-Green-best-price-in-Sri-Lanka.jpg?fit=600%2C600&ssl=1",
     "rating": 4.4,
     "price": 259900,
     "category": "MobilePhones"
@@ -34,24 +34,8 @@
   {
     "id": 5,
     "title": "Xiaomi Mi 13 Pro with Triple Camera Setup",
-    "image": "cart.png",
+    "image": "https://i0.wp.com/geniusmobile.lk/wp-content/uploads/2024/01/Xiaomi-Redmi-Note-13-Pro-Plus-600x600-1.png?fit=600%2C600&ssl=1",
     "rating": 4.3,
-    "price": 279900,
-    "category": "MobilePhones"
-  },
-  {
-    "id": 6,
-    "title": "Sony Xperia 1 IV with Ultra HD Screen",
-    "image": "cart.png",
-    "rating": 4.2,
-    "price": 369900,
-    "category": "MobilePhones"
-  },
-  {
-    "id": 7,
-    "title": "Motorola Edge 30 Pro with Snapdragon Processor",
-    "image": "cart.png",
-    "rating": 4.5,
     "price": 279900,
     "category": "MobilePhones"
   },
@@ -59,7 +43,7 @@
   {
     "id": 11,
     "title": "Apple AirPods Pro with Active Noise Cancellation",
-    "image": "cart.png",
+    "image": "https://celltronics.lk/wp-content/uploads/2022/02/57900-02.jpg",
     "rating": 4.8,
     "price": 74900,
     "category": "Accessories"
@@ -67,7 +51,7 @@
   {
     "id": 12,
     "title": "Samsung Galaxy Watch 5 with Advanced Fitness Tracking",
-    "image": "cart.png",
+    "image": "https://lifemobile.lk/wp-content/uploads/2022/09/Samsung-Galaxy-Watch5-44MM.png",
     "rating": 4.6,
     "price": 79900,
     "category": "Accessories"
@@ -75,7 +59,7 @@
   {
     "id": 13,
     "title": "Bose QuietComfort 45 Noise-Canceling Headphones",
-    "image": "cart.png",
+    "image": "https://techsource.lk/cdn/shop/products/51JbsHSktkL_1920x.jpg?v=1652171286",
     "rating": 4.9,
     "price": 109900,
     "category": "Accessories"
@@ -83,7 +67,7 @@
   {
     "id": 14,
     "title": "Logitech MX Master 3S Wireless Mouse with Precision",
-    "image": "cart.png",
+    "image": "https://i5.walmartimages.com/seo/Logitech-Master-Series-MX-Master-3S-Performance-Wireless-Mouse-USB-a-to-USB-C-Pale-Gray_acbd5b3e-bff3-4cd1-9e8e-1fa86f51ece4.cd0c7b06e1c5a3ecf9a7e05b2bdff685.jpeg",
     "rating": 4.7,
     "price": 34900,
     "category": "Accessories"
@@ -91,41 +75,16 @@
   {
     "id": 15,
     "title": "Anker PowerCore 10000 Portable Charger with Fast Charging",
-    "image": "cart.png",
+    "image": "https://m.media-amazon.com/images/I/6142te88vDL._AC_SL1500_.jpg",
     "rating": 4.5,
     "price": 9900,
     "category": "Accessories"
   },
 
   {
-    "id": 17,
-    "title": "Jabra Elite 75t True Wireless Earbuds with ANC",
-    "image": "cart.png",
-    "rating": 4.6,
-    "price": 54900,
-    "category": "Accessories"
-  },
-  {
-    "id": 18,
-    "title": "Sony WH-1000XM4 Wireless Noise-Canceling Headphones",
-    "image": "cart.png",
-    "rating": 4.8,
-    "price": 89900,
-    "category": "Accessories"
-  },
-  {
-    "id": 19,
-    "title": "Beats by Dre Studio3 Wireless Headphones with Noise Canceling",
-    "image": "cart.png",
-    "rating": 4.7,
-    "price": 74900,
-    "category": "Accessories"
-  },
-
-  {
     "id": 21,
     "title": "Ray-Ban Aviator Sunglasses with Classic Gold Frame",
-    "image": "cart.png",
+    "image": "https://images-cdn.ubuy.co.in/63cc1cbb7621133e3b506c52-ray-ban-mens-polarized-aviator.jpg",
     "rating": 4.5,
     "price": 54900,
     "category": "Clothing"
@@ -134,7 +93,7 @@
   {
     "id": 24,
     "title": "Adidas UltraBoost 22 Running Shoes ith Responsive Fit",
-    "image": "cart.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfddyi4m5QYlKoy7rjgONvgEobBthyiIsYbw&s",
     "rating": 4.8,
     "price": 129900,
     "category": "Clothing"
@@ -142,7 +101,7 @@
   {
     "id": 25,
     "title": "Puma RS-X3 Puzzle Sneakers with Retro Design",
-    "image": "cart.png",
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/371570/01/sv01/fnd/PNA/fmt/png/RS-X%C2%B3-Puzzle-Men's-Sneakers",
     "rating": 4.4,
     "price": 99900,
     "category": "Clothing"
@@ -150,7 +109,7 @@
   {
     "id": 26,
     "title": "Tommy Hilfiger Classic Fit Polo Shirt with Embroidered Logo",
-    "image": "cart.png",
+    "image": "https://cdn.hemden.de/media/image/c2/80/33/MW0MW35585-BDS_8001yYpAlthsVGC1_1200x1200.jpg",
     "rating": 4.5,
     "price": 49900,
     "category": "Clothing"
@@ -158,7 +117,7 @@
   {
     "id": 27,
     "title": "Under Armour Tech 2.0 Short Sleeve T-Shirt with Quick-Dry",
-    "image": "cart.png",
+    "image": "https://m.media-amazon.com/images/I/61c5V8b03rL._AC_UY1000_.jpg",
     "rating": 4.6,
     "price": 39900,
     "category": "Clothing"
@@ -166,32 +125,16 @@
   {
     "id": 28,
     "title": "H&M Casual Fit Blazer with Stretch Fabric for Comfort",
-    "image": "cart.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYd9JprZPNbcJolZRekIjX2_M9LD2XlKinSg&s",
     "rating": 4.7,
     "price": 79900,
-    "category": "Clothing"
-  },
-  {
-    "id": 29,
-    "title": "Burberry Classic Check Cashmere Scarf with Fringe Details",
-    "image": "cart.png",
-    "rating": 4.9,
-    "price": 149900,
-    "category": "Clothing"
-  },
-  {
-    "id": 30,
-    "title": "Gucci GG Marmont Matelassé Leather Belt Bag",
-    "image": "cart.png",
-    "rating": 4.8,
-    "price": 349900,
     "category": "Clothing"
   },
 
   {
     "id": 31,
     "title": "Nike Air Force 1 Low '07 Essential Sneakers with Clean Design",
-    "image": "cart.png",
+    "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/6b41d5b5-f5d9-45d9-889c-ff03406dfa22/custom-nike-air-force-1-low-by-you-shoes.png",
     "rating": 4.5,
     "price": 119900,
     "category": "Shoes"
@@ -199,7 +142,7 @@
   {
     "id": 32,
     "title": "Adidas Originals Superstar Sneakers with Classic Shell Toe",
-    "image": "cart.png",
+    "image": "https://assets.adidas.com/images/w_1880,f_auto,q_auto/55b1ed11d3d049c6ab4f8292656a5eb0_9366/IF3652_04_standard.jpg",
     "rating": 4.6,
     "price": 99900,
     "category": "Shoes"
@@ -207,7 +150,7 @@
   {
     "id": 33,
     "title": "Converse Chuck Taylor All Star High-Top Sneakers",
-    "image": "cart.png",
+    "image": "https://www.converse.com/dw/image/v2/BJJF_PRD/on/demandware.static/-/Sites-cnv-master-catalog-we/default/dw4c0a2041/images/a_107/A01588C_A_107X1.jpg?sw=964",
     "rating": 4.4,
     "price": 79900,
     "category": "Shoes"
@@ -215,40 +158,15 @@
   {
     "id": 34,
     "title": "New Balance 574 Core Sneakers with Retro Styling",
-    "image": "cart.png",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-560x560,f_auto,q_auto:best/rockcms/2024-05/Screenshot-2024-05-09-at-1-86b4a4.png",
     "rating": 4.5,
     "price": 89900,
     "category": "Shoes"
   },
   {
-    "id": 35,
-    "title": "Asics Gel-Kayano 28 Running Shoes ith Superior Cushioning",
-    "image": "cart.png",
-    "rating": 4.7,
-    "price": 129900,
-    "category": "Shoes"
-  },
-  {
-    "id": 36,
-    "title": "Saucony Kinvara 13 Running Shoes ith Lightweight Design",
-    "image": "cart.png",
-    "rating": 4.6,
-    "price": 109900,
-    "category": "Shoes"
-  },
-  {
-    "id": 37,
-    "title": "Vans Old Skool Classic Sneakers with Side Stripe",
-    "image": "cart.png",
-    "rating": 4.4,
-    "price": 79900,
-    "category": "Shoes"
-  },
-
-  {
     "id": 40,
     "title": "Dr. Martens 1460 Pascal Velvet Boots with Floral Design",
-    "image": "cart.png",
+    "image": "https://cdn-images.farfetch-contents.com/17/36/29/98/17362998_35824789_600.jpg",
     "rating": 4.8,
     "price": 139900,
     "category": "Shoes"
@@ -257,7 +175,7 @@
   {
     "id": 41,
     "title": "The North Face Recon Backpack with Laptop Sleeve",
-    "image": "cart.png",
+    "image": "https://images.bloomingdalesassets.com/is/image/BLM/products/3/optimized/12745913_fpx.tif?op_sharpen=1&wid=700&fit=fit,1&$filtersm$",
     "rating": 4.5,
     "price": 79900,
     "category": "Bags"
@@ -265,7 +183,7 @@
   {
     "id": 42,
     "title": "Michael Kors Jet Set Travel Tote Bag in Saffiano Leather",
-    "image": "cart.png",
+    "image": "https://i5.walmartimages.com/seo/Michael-Kors-35F1GTVT3L-Jet-Set-Travel-Large-Chain-Shoulder-Bag-Tote-Bag-Leather-Luggage-Female_da5a5bb8-e6a4-457b-9ce2-eeb506f13f5b.df5745de2991493e6a55a378112f40c0.png",
     "rating": 4.6,
     "price": 149900,
     "category": "Bags"
@@ -273,7 +191,7 @@
   {
     "id": 43,
     "title": "Herschel Little America Backpack with Signature Straps",
-    "image": "cart.png",
+    "image": "https://herschel.com/content/dam/herschel/products/11390/11390-00001-OS_01.jpg.sthumbnails.2000.2500.webp",
     "rating": 4.4,
     "price": 69900,
     "category": "Bags"
@@ -282,7 +200,7 @@
   {
     "id": 46,
     "title": "Kate Spade New York Sam Leather Crossbody Bag",
-    "image": "cart.png",
+    "image": "https://cdn-images.farfetch-contents.com/21/72/93/35/21729335_51684632_1000.jpg",
     "rating": 4.6,
     "price": 119900,
     "category": "Bags"
@@ -290,31 +208,16 @@
   {
     "id": 47,
     "title": "Louis Vuitton Neverfull MM Tote Bag with Monogram Canvas",
-    "image": "cart.png",
+    "image": "https://eu.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-neverfull-mm-monogram-canvas-handbags--M46987_PM1_Back%20view.jpg",
     "rating": 4.8,
     "price": 349900,
     "category": "Bags"
   },
-  {
-    "id": 48,
-    "title": "Prada Re-Nylon Backpack with Adjustable Straps",
-    "image": "cart.png",
-    "rating": 4.7,
-    "price": 239900,
-    "category": "Bags"
-  },
-  {
-    "id": 49,
-    "title": "Coach Tabby Shoulder Bag with Signature Canvas",
-    "image": "cart.png",
-    "rating": 4.5,
-    "price": 139900,
-    "category": "Bags"
-  },
+
   {
     "id": 50,
     "title": "Burberry Vintage Check Bum Bag with Adjustable Belt",
-    "image": "cart.png",
+    "image": "https://assets.burberry.com/is/image/Burberryltd/61BA7A7F-805F-4B62-B957-8AFF4BC022BD?$BBY_V3_SL_1$&wid=1501&hei=1500",
     "rating": 4.6,
     "price": 169900,
     "category": "Bags"
@@ -322,7 +225,7 @@
   {
     "id": 51,
     "title": "Nike Air Zoom Pegasus 39 Running Shoes",
-    "image": "cart.png",
+    "image": "https://www.runningxpert.com/media/catalog/product/cache/ed1b3c59211d8cf1c9523654e2efd698/d/j/dj5404-100-phsrh000.jpg",
     "rating": 4.6,
     "price": 109900,
     "category": "Sports & Outdoors"
@@ -330,7 +233,7 @@
   {
     "id": 52,
     "title": "Adidas Terrex Swift R3 GTX Hiking Boots with Waterproof Technology",
-    "image": "cart.png",
+    "image": "https://res.cloudinary.com/ekoweb/image/upload/s--51DNzBVa--/f_auto,h_600,q_auto:eco,w_600/v1/products/9-126278/views/9-126278__hr1308_01",
     "rating": 4.7,
     "price": "139900",
     "category": "Sports & Outdoors"
@@ -338,7 +241,7 @@
   {
     "id": 53,
     "title": "Fitbit Charge 5 Fitness Tracker with Built-In GPS",
-    "image": "cart.png",
+    "image": "https://lifemobile.lk/wp-content/uploads/2021/11/Fitbit-Charge-5-5.jpg",
     "rating": 4.5,
     "price": 39900,
     "category": "Sports & Outdoors"
@@ -346,7 +249,7 @@
   {
     "id": 54,
     "title": "Forerunner 945 Multisport GPS Watch with Heart Rate Monitor",
-    "image": "cart.png",
+    "image": "https://res.garmin.com/transform/image/upload/b_rgb:FFFFFF,c_pad,dpr_2.0,f_auto,h_400,q_auto,w_400/c_pad,h_400,w_400/v1/Product_Images/en/products/010-02063-01/v/cf-lg-1f31215e-e1d4-4ae6-91ae-0229df8e528b?pgw=1",
     "rating": 4.8,
     "price": 219900,
     "category": "Sports & Outdoors"
@@ -355,7 +258,7 @@
   {
     "id": 57,
     "title": "Extra Virgin Olive Oil with Rich Flavor and Health Benefits",
-    "image": "cart.png",
+    "image": "https://papavince.com/cdn/shop/files/EVOO500-Front-1000A2_1280x.jpg?v=1708556104",
     "rating": 4.6,
     "price": 1590,
     "category": "Groceries"
@@ -363,7 +266,7 @@
   {
     "id": 58,
     "title": "Almond Butter Smooth with No Added Sugar and Healthy Fats",
-    "image": "cart.png",
+    "image": "https://www.cavenut.com/cdn/shop/products/SmoothABWhiteBGcopy.png?v=1635263693&width=1445",
     "rating": 4.8,
     "price": 1490,
     "category": "Groceries"
@@ -371,7 +274,7 @@
   {
     "id": 59,
     "title": "Premium Whole Bean Coffee with Rich Aroma and Bold Flavor",
-    "image": "cart.png",
+    "image": "https://m.media-amazon.com/images/I/71HPF8ogpTL.jpg",
     "rating": 4.7,
     "price": 1290,
     "category": "Groceries"
@@ -379,7 +282,7 @@
   {
     "id": 60,
     "title": "Assorted Organic Nuts Mix with High Nutritional Value",
-    "image": "cart.png",
+    "image": "https://rukminim2.flixcart.com/image/850/1000/l31x2fk0/nut-dry-fruit/w/o/r/335-trail-mix-fitness-trail-mix-premium-organic-mixed-nuts-seeds-original-image9gzqshkgye7.jpeg?q=90&crop=false",
     "rating": 4.5,
     "price": 1790,
     "category": "Groceries"
@@ -387,7 +290,7 @@
   {
     "id": 61,
     "title": "Sony Bravia 65-Inch 4K Ultra HD TV",
-    "image": "cart.png",
+    "image": "https://dinapalagroup.lk/wp-content/uploads/2022/01/916e1ca5c3b64c3947acae853da7ad07.webp",
     "rating": 4.7,
     "price": 89900,
     "category": "Electronics"
@@ -395,7 +298,7 @@
   {
     "id": 62,
     "title": "Samsung Galaxy Tab S8 Ultra with S Pen",
-    "image": "cart.png",
+    "image": "https://emobile.lk/image/cache/catalog/Samsung%20Galaxy%20Tab%20S8-500x500.jpg",
     "rating": 4.8,
     "price": 64900,
     "category": "Electronics"
@@ -403,7 +306,7 @@
   {
     "id": 63,
     "title": "Apple MacBook Pro 16-inch with M1 Pro Chip",
-    "image": "cart.png",
+    "image": "https://celltronics.lk/wp-content/uploads/2022/06/01-18-1-1.jpg",
     "rating": 4.9,
     "price": 239900,
     "category": "Electronics"
@@ -411,7 +314,7 @@
   {
     "id": 64,
     "title": "Bose SoundLink Revolve+ Portable Bluetooth Speaker",
-    "image": "cart.png",
+    "image": "https://lifemobile.lk/wp-content/uploads/2021/09/Bose-SoundLink-Revolve-II-Bluetooth-Speaker-6.jpg",
     "rating": 4.6,
     "price": 29900,
     "category": "Electronics"
@@ -419,7 +322,7 @@
   {
     "id": 65,
     "title": "Nikon D850 DSLR Camera with 24-120mm Lens",
-    "image": "cart.png",
+    "image": "https://www.nikon.co.in/media/wysiwyg/DSLRD850/battery-grip.jpg",
     "rating": 4.7,
     "price": 159900,
     "category": "Electronics"
