@@ -6,7 +6,7 @@ import SearchIcon from "@mui/icons-material/Search";
 import InputBase from "@mui/material/InputBase";
 import AppBar from "@mui/material/AppBar";
 
-import SideBar from "../SideBar/SideBar";
+import PropTypes from "prop-types";
 
 const Search = styled("div")(({ theme }) => ({
   position: "relative",
@@ -50,13 +50,11 @@ const StyledInputBase = styled(InputBase)(({ theme }) => ({
   },
 }));
 
-const SearchAppBar = ({ setSearch}) => {
+const SearchAppBar = ({ setSearch }) => {
   return (
     <Box sx={{ flexGrow: 1 }}>
       <AppBar position="static">
         <Toolbar>
-          
-
           <Typography
             variant="h6"
             noWrap
@@ -80,4 +78,9 @@ const SearchAppBar = ({ setSearch}) => {
     </Box>
   );
 };
+
+SearchAppBar.propTypes = {
+  setSearch: PropTypes.func.isRequired,
+};
+
 export default SearchAppBar;

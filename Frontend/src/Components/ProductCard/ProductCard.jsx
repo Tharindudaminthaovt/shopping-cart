@@ -4,6 +4,8 @@ import Paper from "@mui/material/Paper";
 import Box from "@mui/material/Box";
 import Rating from "@mui/material/Rating";
 
+import PropTypes from "prop-types";
+
 const ProductCard = ({ item }) => {
   return (
     <Grid2 size={{ xs: 12, sm: 4, md: 3 }}>
@@ -59,6 +61,15 @@ const ProductCard = ({ item }) => {
       </Paper>
     </Grid2>
   );
+};
+
+ProductCard.propTypes = {
+  item: PropTypes.shape({
+    image: PropTypes.string.isRequired,
+    title: PropTypes.string.isRequired,
+    rating: PropTypes.number.isRequired,
+    price: PropTypes.number.isRequired, 
+  }).isRequired,
 };
 
 export default ProductCard;
