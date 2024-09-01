@@ -57,6 +57,7 @@ const SideBar = () => {
   }, []);
   return (
     <>
+   
       <IconButton
         size="large"
         edge="start"
@@ -65,7 +66,7 @@ const SideBar = () => {
         onClick={handleDrawerOpen}
         sx={{
           ml: 2,
-          mt: 4,
+          mt: 12,
           backgroundColor: "#1976d2",
           color: "white",
           borderRadius: "4px",
@@ -78,9 +79,10 @@ const SideBar = () => {
           },
         }}
       >
-        <MenuIcon />
+        <MenuIcon sx={{ mr: 1 }}/>
         <Typography>Categories</Typography>
       </IconButton>
+     
       <Drawer
         sx={{
           width: drawerWidth,
